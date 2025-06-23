@@ -2,6 +2,9 @@
 Play against an AI which uses Q-learning that learns optimal moves over time (reinforced learning)
 
 ---
+![](https://github.com/paramvarsha12/Tic-Tac-Toe-AI/blob/972d6175a7cf47f75c31e88722e832f8a7dba97a/image.png
+)
+![](https://github.com/paramvarsha12/Tic-Tac-Toe-AI/blob/972d6175a7cf47f75c31e88722e832f8a7dba97a/aiwinsimage.png)
 
 # Working
 1. This is a Tic Tac Toe game where you can play against a smart AI opponent trained using Reinforcement Learning (specifically Q-Learning).
